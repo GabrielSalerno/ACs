@@ -1,3 +1,10 @@
+"""
+Programação Estruturada
+2024.1
+09/03/2024
+
+AC3
+"""
 # Exercício 1
 def determina_tipo_triangulo(a, b, c):
     if a + b < c or a + c < b or c + b < a:

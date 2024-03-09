@@ -1,3 +1,10 @@
+"""
+Programação Estruturada
+2024.1
+09/03/2024
+
+AC2
+"""
 # Exercício 1
 def eq_seg_grau(a, b, c):
     x1 = (-b + ((b**2-4*a*c)**(1/2)))/(2*a)
